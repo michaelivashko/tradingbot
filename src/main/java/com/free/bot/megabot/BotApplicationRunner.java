@@ -16,6 +16,7 @@ public class BotApplicationRunner implements ApplicationRunner
 	@Override
 	public void run(ApplicationArguments arg0) throws Exception {
 		System.out.println("Hello World from Application Runner");
+		System.out.println("test commit");
 	}
 
 
